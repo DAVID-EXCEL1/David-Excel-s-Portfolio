@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Monogram badge -->
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="0" y="4" rx="8" width="40" height="32" fill="white" stroke="#3B82F6" stroke-width="2"/>
+    <circle cx="12" cy="12" r="3" fill="#3B82F6" />
+    <path d="M20 28 L28 20 L20 12" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="8" y="24" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" fill="#0F172A">DE</text>
+  </g>
+  <!-- Wordmark -->
+  <g>
+    <text x="52" y="26" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#0F172A">David Excel</text>
+  </g>
+</svg>
